@@ -6,7 +6,7 @@ The Full Stack Open 2022 course by the University of Helsinki taught a broad ran
 Course page: https://fullstackopen.com/en/
 
 
-###![Part 0 - Fundamentals of Web apps](https://github.com/MartinOvington/fullstack/tree/main/part0)
+### ![Part 0 - Fundamentals of Web apps](https://github.com/MartinOvington/fullstack/tree/main/part0)
 
 ###![Part 1 - Introduction to React](https://github.com/MartinOvington/fullstack/tree/main/part1)
 
